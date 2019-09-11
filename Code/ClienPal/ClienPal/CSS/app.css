@@ -1,0 +1,137 @@
+﻿.appHeader {
+    background-color: #F5F2EB;
+}
+
+.appMenuItem
+{
+    padding: 16px 0px 16px 25px;
+    font-family: Arial;
+    font-size: 18px;
+    color: #ffffff;
+    line-height: 26px;
+    vertical-align: middle;
+    text-shadow: 0 0 2px #002948;
+    border-left: solid 5px transparent;
+}
+
+    .appMenuItem:hover {
+        color: #ffffff;
+        background-color: #24141D;
+    }
+
+    .appMenuItem i
+    {
+        padding-right: 18px;
+        vertical-align: middle;
+    }
+
+.appMenuItemSelected {
+    padding: 16px 0px 16px 25px;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    line-height: 26px;
+    vertical-align: middle;
+    background-color: #24141D;
+    border-left: solid 5px #142422;
+}
+
+    .appMenuItemSelected i 
+    {
+        padding-right: 18px;
+        vertical-align: middle;
+    }
+
+.appMenu {
+    background-color: #4f2b3e;
+}
+
+.footerMessage
+{
+    font-family: Arial;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.appBody {
+    background-color: #87b8b8;
+}
+
+.logoImage
+{
+    background-image: URL(../Images/ClienPal.png);
+    background-repeat: no-repeat;
+}
+
+.userMenuButton {
+    padding: 0px 0px 0px 0px;
+    font-family: Arial;
+    font-size: 18px;
+    color: #454545;
+    line-height: 15px;
+    vertical-align: middle;
+}
+
+    .userMenuButton i {
+        font-size: 12px;
+        padding-left: 8px;
+        vertical-align: middle;
+    }
+
+.userMenuButtonOver {
+    padding: 0px 0px 0px 0px;
+    font-family: Arial;
+    font-size: 18px;
+    color: #026fc1;
+    line-height: 15px;
+    vertical-align: middle;
+}
+
+    .userMenuButtonOver i {
+        font-size: 12px;
+        padding-left: 8px;
+        vertical-align: middle;
+        color: #026fc1;
+    }
+
+
+.menuBody {
+    border-left: solid 2px #026fc1;
+    background-color: #ffffff;
+}
+
+.userMenu-item {
+    font-size: 13px;
+}
+
+.userMenu .menuTitleField, .userMenu .menuTitleFieldOver {
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+    padding-left: 10px;
+    vertical-align: middle;
+    border: none;
+    color: #454545;
+    border-bottom: 1px solid transparent;
+    border-top: 1px solid transparent;
+}
+
+.userMenu .menuTitleFieldOver, .userMenu .menuOver {
+    color: #026fc1;
+    border: none;
+    background: #eeeeee;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    cursor: pointer;
+    vertical-align: middle;
+    padding-left: 10px;
+    height: 18px;
+    border-bottom: 1px solid transparent;
+    border-top: 1px solid transparent;
+}
+
+.display-none{
+    display: none;
+}
