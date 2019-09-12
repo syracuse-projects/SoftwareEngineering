@@ -1,0 +1,253 @@
+﻿.tabMainTop {
+    border-top: 3px solid transparent;
+    padding: 10px 25px;
+    font-size: 12px;
+    color: #142422;
+    font-weight: bold;
+}
+
+.tabMainTopOver {
+    border-top: 3px solid #777777;
+    padding: 10px 25px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #142422;
+    text-shadow: 0 0 5px #ffffff;
+    background-color: #F5F2EB;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.tabMainTopSelected {
+    border-top: 3px solid #142422;
+    padding: 10px 25px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #111111;
+    border-left: 1px solid #ababab;
+    border-right: 1px solid #ababab;
+    background-color: #F5F2EB;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.tabMainTopSelectedOver {
+    border-top: 3px solid #142422;
+    padding: 10px 25px;
+    font-size: 12px;
+    font-weight: bold;
+    border-left: 1px solid #ababab;
+    border-right: 1px solid #ababab;
+    background-color: #F5F2EB;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.tabMainTopSelectedDown {
+    border-top: 3px solid #142422;
+    padding: 10px 25px;
+    font-size: 12px;
+    font-weight: bold;
+    border-left: 1px solid #ababab;
+    border-right: 1px solid #ababab;
+    background-color: #F5F2EB;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.tabMainTopFocused {
+    border-top: 3px solid transparent;
+    padding: 10px 25px;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: #F5F2EB;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.tabMainTopSelectedFocused {
+    border-top: 3px solid transparent;
+    padding: 10px 25px;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: #F5F2EB;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.tabMainTopSelectedFocusedOver {
+    border-top: 3px solid transparent;
+    padding: 10px 25px;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: #F5F2EB;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.tabMainTopDown {
+    border-top: 3px solid transparent;
+    padding: 10px 25px;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: #F5F2EB;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.tabMainTopSelectedDisabled {
+    border-top: 3px solid transparent;
+    background-color: #F5F2EB;
+    padding: 10px 25px;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: #F5F2EB;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.tabMainTopDisabled {
+    border-top: 3px solid transparent;
+    padding: 10px 25px;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: #F5F2EB;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.mainPaneContainer {
+    background-color: #F5F2EB;
+}
+
+.tabSimpleTop {
+    padding: 0px 15px;
+    font-size: 12px;
+    font-weight: bold;
+    border-bottom: 2px solid transparent;
+}
+
+.tabSimpleTopOver {
+    padding: 0px 15px;
+    font-size: 12px;
+    font-weight: bold;
+    border-bottom: 2px solid #cccccc;
+}
+
+.tabSimpleTopSelected {
+    border-bottom: 2px solid #026fc1;
+    padding: 0px 15px;
+    font-size: 12px;
+    background-color: #fcfcfc;
+    font-weight: bold;
+    color: #026fc1;
+}
+
+.tabSimpleTopSelectedOver {
+    border-bottom: 2px solid #026fc1;
+    padding: 0px 15px;
+    font-size: 12px;
+    background-color: #fcfcfc;
+    font-weight: bold;
+    color: #026fc1;
+}
+
+.tabSimpleTopSelectedDown {
+    border-bottom: 2px solid #026fc1;
+    padding: 0px 15px;
+    font-size: 12px;
+    background-color: #fcfcfc;
+    font-weight: bold;
+    color: #026fc1;
+}
+
+.tabSimpleTopFocused {
+    border-bottom: 2px solid transparent;
+    padding: 0px 15px;
+    font-size: 12px;
+    background-color: #fcfcfc;
+    font-weight: bold;
+}
+
+.tabSimpleTopSelectedFocused {
+    border-bottom: 2px solid transparent;
+    padding: 0px 15px;
+    font-size: 12px;
+    background-color: #fcfcfc;
+    color: #026fc1;
+}
+
+.tabSimpleTopSelectedFocusedOver {
+    border-bottom: 2px solid transparent;
+    padding: 0px 15px;
+    font-size: 12px;
+    background-color: #fcfcfc;
+    font-weight: bold;
+    color: #026fc1;
+}
+
+.tabSimpleTopDown {
+    border-bottom: 2px solid transparent;
+    padding: 0px 15px;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #fcfcfc;
+}
+
+.tabSimpleTopSelectedDisabled {
+    border-bottom: 2px solid transparent;
+    background-color: #fff;
+    padding: 0px 15px;
+    font-size: 12px;
+    background-color: #fcfcfc;
+    font-weight: bold;
+    color: #026fc1;
+}
+
+.tabSimpleTopDisabled {
+    border-bottom: 2px solid transparent;
+    padding: 0px 15px;
+    font-size: 12px;
+    background-color: #fcfcfc;
+    font-weight: bold;
+}

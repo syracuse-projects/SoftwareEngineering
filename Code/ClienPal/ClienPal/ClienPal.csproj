@@ -68,10 +68,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app.aspx" />
-    <Content Include="CSS\app.css" />
+    <Content Include="CSS\CustomElements\TabSet.css" />
+    <Content Include="CSS\Framework.css" />
     <Content Include="CSS\icon.css" />
+    <Content Include="CSS\Pages.css" />
     <Content Include="Global.asax" />
     <Content Include="Images\ClienPal.png" />
+    <Content Include="Images\UserPlaceholder.png" />
     <Content Include="Isomorphic\login\loginRequiredMarker.html" />
     <Content Include="Isomorphic\login\loginSuccessMarker.html" />
     <Content Include="Isomorphic\login\maxLoginAttemptsExceededMarker.html" />
@@ -4374,6 +4377,8 @@
     <Content Include="Isomorphic\system\schema\XORGateway.ds.xml" />
     <Content Include="Isomorphic\system\schema\XSComplexType.ds.xml" />
     <Content Include="Isomorphic\system\schema\XSElement.ds.xml" />
+    <Content Include="JS\Pages\ClientSummary.js" />
+    <Content Include="JS\CustomElements\TabSet.js" />
     <Content Include="JS\Framework.js" />
     <Content Include="Web.config" />
   </ItemGroup>

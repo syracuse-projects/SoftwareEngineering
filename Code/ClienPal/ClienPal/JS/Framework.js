@@ -59,7 +59,7 @@ isc.defineClass("AppMenu", "VLayout").addProperties({
     initWidget: function () {
         this.Super("initWidget", arguments);
         this.addMember(isc.LayoutSpacer.create({ height: 45 }));
-        this.addMember(this.createAutoChild("menuItem", { title: "Client List", iconName: "im im-users", uiClass: "ClientUI" }));
+        this.addMember(this.createAutoChild("menuItem", { title: "Client List", iconName: "im im-users", uiClass: "ClientSummaryUI" }));
         this.addMember(this.createAutoChild("menuItem", { title: "Add Client", iconName: "im im-plus-circle", uiClass: "ClientUI" }));
         this.addMember(this.createAutoChild("menuItem", { title: "Appointments", iconName: "im im-calendar", uiClass: "ClientUI" }));
         this.addMember(this.createAutoChild("menuItem", { title: "Add Appointment", iconName: "im im-plus-circle", uiClass: "ClientUI" }));
